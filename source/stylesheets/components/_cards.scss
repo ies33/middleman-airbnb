@@ -1,0 +1,31 @@
+.card {
+    height: 175px;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+    background-size: cover !important;
+    background-position: center;
+    color: white;
+    position: relative;
+
+}
+.row{margin-top: 50px;
+    margin-bottom:30px}
+.card-category{
+
+}
+.card-description{
+
+    p{font-size:12px;}
+}
+.card-link{}
+.card-user{
+  position:absolute;
+  top: 10px;
+  right:10px;
+  border-radius: 50%;
+  height:30px;
+
+}
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
